@@ -1,0 +1,7 @@
+[package]
+name = "cpufreq_monitor"
+version = "0.1.0"
+authors = ["marccay"]
+
+[dependencies]
+ncurses = "5.86.0"
